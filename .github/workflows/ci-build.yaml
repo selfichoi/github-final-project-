@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Done
-      run: echo "CI SUCCESS"
+    - name: Force Success
+      run: echo "SUCCESS"
